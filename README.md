@@ -2,26 +2,14 @@
 
 This repository contains my personal write-ups, payloads, and notes for the **Cross-Site Scripting (XSS)** labs from the [PortSwigger Web Security Academy](https://portswigger.net/web-security).  
 It’s part of my journey toward becoming a professional penetration tester.
----
 
-🛠 Tools Used
-Burp Suite – Interception and request manipulation
-Firefox / Chrome DevTools – Payload testing and analysis
-PortSwigger Academy – Lab platform
-VS Code – Markdown editing
-
-🧑‍💻 Author
-Kaouthar Belkebir
-Cybersecurity enthusiast | Passionate about offensive security
-🔗 LinkedIn
-🎓 Credly Profile
 ---
 
 ## ✨ What’s Inside?
 
-- 🔍 Reflected XSS
-- 💾 Stored XSS
-- 🧬 DOM-Based XSS
+- 🔍 Reflected XSS  
+- 💾 Stored XSS  
+- 🧬 DOM-Based XSS  
 - 🧠 Bonus tips, bypass tricks, and learning notes
 
 Each lab folder contains:
